@@ -56,6 +56,8 @@ a:hover {
 
     .fwImg {
         width: 100%;
+        border-radius: 1.5%;
+        border: 3px solid rgba(171, 214, 244, 0.9);
     }
 
     .fwP {
@@ -127,6 +129,9 @@ a:hover {
     }
     
     footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0px;
         font-family: 'Righteous', cursive;
         text-align: center;
         padding-top: 2px;
