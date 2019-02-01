@@ -181,10 +181,8 @@ a:hover {
     }
 
     #navbarNav {
-        padding: 0px 10px !important;
+        padding: 0px 5px !important;
         margin: 0px 10px !important;
-        text-align: center;
-
     }
 
     #navBar {
